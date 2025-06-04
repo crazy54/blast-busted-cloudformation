@@ -1,0 +1,11 @@
+ESX Host,Switch Name,Type,Num Ports,Free Ports,Uplinks,Promiscuous Mode,MAC Address Changes,Forged Transmits,Traffic Shaping,Beacon Interval,Notify Switches,Rolling Order,Check Beacon,vCenter,Datacenter,Cluster
+esxi34.corp.local,wX1kD,aZccEm,Ka4O6DSxqUbu,83xleVhWS,S2yHnccxkba,N3tC5hvbV,2D:E0:B0:D6:DF:A6,QYgCt5r,oFlDwN9gtN,pq31HFJv,p9RhRROT,pCnBQHt7,pc8C2WdfTMCxm1I,PMy0OvgSxshi,DC-Main-5,Cluster-D03
+esxi01.corp.local,K0AsR,rJvFwX,FlKMq8DnQ2gT,sM2rwlupl,WTjBNYhGXTJ,8L8etYsWm,16:24:DE:91:59:41,4NHZEN6,FjF5FxdNVy,69cRhCs7,L8oInC8h,RxWBKHOo,nb6Bs6oXI7UHWtg,ufjG0hJMlmeZ,DC-Main-1,Cluster-C06
+esxi42.corp.local,yPVxE,iYzfwU,RZvdeY7Hg8Zn,WTO2XDI9x,ANlyaIl4xKc,SfdYtsmLO,0E:0E:33:C0:E8:93,jPimWJh,i0wsNOYf98,RmIMcyMY,ehDbg9m5,u07VxDNp,id7hFRG05e47Ypd,1gj4vYQOLOrm,DC-Test-5,Cluster-C06
+esxi30.corp.local,f8Gwv,x7hxjI,BtczpLxwFF4a,1jhH8ohOR,7XwFPRnUDcG,aLKdWm0hm,C5:91:E1:36:B8:5F,HZolvYB,fL9PZQ70eJ,U6vSkUXc,HejsqrJ2,l19EaFfk,BGC3WzuCOvV5x5e,GJkR2vNeK71k,DC-DR-1,Cluster-E01
+esxi48.corp.local,syOZS,6K2QKr,cQzAUBTyx61j,qTmzxC4SG,Tr3zq505JmV,K5t78Ad1q,38:64:89:F5:3F:27,hK30YaX,x0b4jDMaGI,bt9M16wS,b0PTO3mZ,o5M13Qzr,Umcuo9Ti1smtLcp,kipwivfVBrsN,DC-Dev-5,Cluster-E01
+esxi50.corp.local,M2Kan,lqGujO,mwMR6hcll79o,ShCJf4eAH,OFAwPvfsN2u,OVEsEa7RS,4C:94:55:27:13:71,tgfc6f7,R5txEtXrO5,o6Z6zcGy,jJ1Ie1pD,jETqvjn5,8q6i7K3IeaLOkYX,QCOcMWfSzKfq,DC-Test-5,Cluster-F03
+esxi23.corp.local,EKWU6,nKIDp0,zsgNEhdTIzsw,5zBpSd304,edseMFq0pWx,pKA1a39XB,B8:F7:E4:44:1F:39,sxzZXjK,pO2rG1d3A4,b0tkWSsz,FWGC7s2p,pkmD3twf,2gDKvfGzv2xs6ap,NkAXXl7Xzvf7,DC-Dev-4,Cluster-E06
+esxi19.corp.local,etknd,A8Bi8b,ZfWAxff8dWRw,afks6mvA5,rUZLsPRrylJ,aFWwpI6PU,70:0A:BF:40:05:9A,NfivQWX,zEv8erVMyC,sSzq7PtW,vR9OPOut,kLviKZNH,zKODLrtHbsYPT1K,icT7yD2TpeRg,DC-Main-2,Cluster-A05
+esxi26.corp.local,Zpelv,3vl3oY,7vVoytO4GMNI,vYugyy2Kz,1Npewu234Cw,bP8WDnlZf,B4:7E:80:57:D0:88,6Ovw7jX,Xt0PUDR5lT,lw3SYaDk,UNkEIjEr,pWhalpGJ,9vFaSOiEstTmJ79,qBUJpbn0iErH,DC-Main-3,Cluster-C02
+esxi46.corp.local,yoP2d,4QMcZK,PAhCLRSh3aNi,Yvxz8dKvD,2vIfDhDHu41,OfrBM2CSa,EA:0E:B7:C6:19:B1,JsayQLO,yxxEXklRct,HYDgpsfO,TDGWkT3O,0MGyJpBi,AinNa2FwFTAZxzJ,gtR6rW2acS2V,DC-DR-1,Cluster-D01
