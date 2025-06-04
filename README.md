@@ -37,16 +37,20 @@ Key capabilities include:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository_url> # Replace <repository_url> with the actual URL
+    git clone <repository_url>  # Replace <repository_url> with the actual URL
     cd cfn-stack-deleter
     ```
 
-2.  **Install Dependencies**:
-    The script primarily relies on Boto3. If you don't have it installed, or want to ensure you have a recent version:
+2.  **Create a Python virtual environment (recommended)**:
     ```bash
-    pip install boto3
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
-    (It's good practice to use a virtual environment.)
+
+3.  **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Configuration
 
