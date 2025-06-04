@@ -1,0 +1,11 @@
+ESX Host,LUN ID,Device Name,Canonical Name,Vendor,Model,Capacity GB,Block Size,Multipath Policy,vCenter,Datacenter,Cluster
+esxi13.corp.local,pwt0ZHtH,nQT6RA1pVbbVzP5,0FZWHNdaR0RBGF,nAVSdUc0gfk,v9fw56UpukuRxY,2966,7LWrgO0nGhWI5Vn,TtYkIisI0shGNkS,9FTsLFxWEpCo,DC-Dev-4,Cluster-C09
+esxi12.corp.local,3Bi3JHvO,ijr6Vn3v0fDAxmB,mGJOJOeFYRxZDH,pC4KhVhGDgR,F1KcRMSQzU3bRY,799,6m7nzvyfDLm7b4G,zeH7xlnzxAmEAKb,7Db3xU2owNSY,DC-Main-2,Cluster-F05
+esxi10.corp.local,ekdWHpyj,BeLgioYASBgx0zO,Hoystj2IGwSbQk,BbOwsz6TOwB,GdDNkDs3WzaMez,3317,FeO4WaCrydnSihK,nWtPZEJGXqXt1HU,LySR9fZ66CKU,DC-Test-5,Cluster-B02
+esxi36.corp.local,m3EsMNuJ,ZXnCzuIqa6zBdXs,DydKUrqWdd6zht,n4omdMDpTYC,WfxHdDNa4YfEBb,3022,8jYM3Bevme9gulA,hhnXbc6k8RuFQ7T,LoEp1qaZwPdT,DC-Test-4,Cluster-C01
+esxi05.corp.local,tBkiNZxN,FGuTPKD5gH7Q3tt,77WWVQd7CnP9bo,aBPRjBWlRQo,uf1KC3pJMUqP0E,3646,tz1FPVGOztmK0MD,LU83meLoqWdirK4,z9mPNpGH3fDd,DC-Dev-1,Cluster-D05
+esxi30.corp.local,zJG1LQSu,Z85VBIPISNe6nge,YIMJacPdghhAzz,T2vKGLKCS9x,DE2owzmfEbSfiU,48,P6BVyh9ZbmJUAid,BTlYCXMfoTT0eak,hM8NCxtVL9Tn,DC-Test-5,Cluster-F02
+esxi06.corp.local,VhAr8Zd3,QRlzwmKPlCIKujf,RgyQVXKu0APjfS,a4uUSXULW7H,mC37Vyqm5bhseE,680,n3N3h176fKKmSmO,BiEZFghFD6VGEMP,HfxNUlmdsLuA,DC-Test-2,Cluster-F04
+esxi22.corp.local,bW0r9gEC,Y3phx44rPP90sw3,DfofiwQOjxSudx,2zki6DYpW2e,bicHLEblroYu8b,709,NJrvQGtu3DyEQMJ,ry6yr6VgQprlqYT,Gg7mIrn03Jzf,DC-DR-3,Cluster-D03
+esxi02.corp.local,M604gaXq,TOTkKTcQOy4yIe3,AJrkD9x8kIUDt8,vkA2ssx4DfR,LYBmnND71xWm3j,2823,RoxVpU8EUiZCIs7,A9Hq2Ij8Jjy0E0P,2CaqlM72HIaP,DC-Test-3,Cluster-E05
+esxi30.corp.local,Aywmc5o9,0P8n6HKiphLwC3H,NUhiMG2xsWICYC,BdTn69IC1zQ,Jpzd43rlVd0E2T,2927,yfXZxVk8DcGNYuY,TEvB1g5OEOVGpfS,9VruUuTdywvE,DC-Test-5,Cluster-D05

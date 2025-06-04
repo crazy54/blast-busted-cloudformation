@@ -1,0 +1,11 @@
+ESX Host,Device,Driver,Speed,Duplex,MAC Address,IP Address,Subnet Mask,Gateway,MTU,Observed IP Ranges,WakeOnLAN,vSwitch,Port Group,Virtual NICs,vCenter,Datacenter,Cluster
+esxi26.corp.local,LRmAUU6CHBw,OYeyS,d0mMiauO,5GwgnrNRFXO,1E:00:96:19:D2:E3,207.112.177.43,QU04DpJ4,3uaPQwl,NN2q7jxzm,69GKie4H4K,0pwr0w51F,bHXM3xtpHL86,Q0nLQs92JF,9Onlz,dj4ahRJZy97H,DC-Dev-2,Cluster-C01
+esxi09.corp.local,9bhZZxGJLIe,XCxHS,IPxWvwK5,Lusv4a7MGzf,F1:91:D0:F2:2D:BE,123.120.183.222,e9NOQ6SY,p3O5zrw,zFXbcF5xL,qYWRhw5GKg,7ADSaN2zv,EGUoFA1WKHCY,5LVKohSL7N,QjdgT,gt5GNtacRLRn,DC-DR-3,Cluster-F02
+esxi37.corp.local,BYgmcVZ5giu,9vX8P,59X5i0S0,WC84A4XfqmL,9A:13:02:DD:0A:60,226.5.95.44,AiXGTDVx,38ayYxy,DaJdak7nP,x33yeypjYU,JzlrapyfM,yU1VMq1WSjzQ,97U3DtAQlS,S4Bgs,90r5WgE0nOpt,DC-Dev-3,Cluster-E05
+esxi26.corp.local,RpvLDfaXakQ,3CVbr,pcjJ9Ev4,852JBoRSkKB,BD:81:DB:A3:26:3A,112.242.71.150,10pM7aQK,q4ZP4XN,tqJ0EL7FA,nAhzkVZeoM,B4mzlYP9R,Ahx0ohbjKMv3,HFMc0JsnaG,st53P,X46rHv4WM1UI,DC-Test-2,Cluster-F08
+esxi18.corp.local,FYvlr4noNDx,Sz7SA,wVeUbdoE,escjWRb63yl,E9:59:F0:79:3C:6C,248.36.89.83,qeoc6CIE,1aCjmXP,lFDQwHqff,EyP8ERA25b,tR2MxQkwH,1Rbpjey8CkMJ,rPuECYAZte,bOQdR,vKMnYo1HVweN,DC-Main-5,Cluster-A10
+esxi09.corp.local,hRgRWpLlk7D,xcyza,YZQVmrYP,j0r05G0JaQP,04:65:07:87:6A:62,2.146.246.209,SwGuUPAQ,m98bwMB,YKSye1z7I,zTfF5H55Jq,tW1DKh3Ks,GmhpJHzldCA4,scEuDMZ1Hf,o3dco,aSPeRPc5mk0Y,DC-Test-5,Cluster-A06
+esxi22.corp.local,nDzt03jubIp,oOz6a,U2p7o18G,PeKJDG3LCzQ,48:14:35:E6:81:7A,45.196.111.173,qgXrjpom,nBLkwKN,j6BGxP0JT,G3sgHXejal,uq4tJpGFH,Ds2hZVPGt70X,OTpk7Xdrvb,Vnmiq,v0rNEFzeUHaE,DC-Dev-3,Cluster-F05
+esxi18.corp.local,ySuyCUmpVvS,mWzFx,pmI45Rc6,AueJZ9UuyLk,46:AB:98:7D:EA:84,209.109.247.194,mHjxeCKM,4arE0DL,JV5p8jL3Q,Q6TruOgEPU,t3PjtxCjB,DMJ3l3ead6cz,uZEeeH6TxZ,uMPca,rYEhXSf1YK7N,DC-Main-5,Cluster-C05
+esxi02.corp.local,9LxUnC9ldcY,wBsQA,kIQVFKoB,Cc7IjiSdxCm,D8:2C:2B:5C:4C:93,111.103.103.31,dHCFtz50,s19ve1m,TX812lG35,16UXex7Tf9,3CVdaJK79,jzCpjEdao2xw,YeBIfCyFlC,7joYi,0GsMtNR550nq,DC-Dev-5,Cluster-D08
+esxi34.corp.local,1ZO88Ewui7W,DtfSo,UrGkwoL2,LJVCKLiDeyI,36:97:A4:01:E1:C0,243.243.168.54,QVHTrFg6,3Vsj2jG,riBEMwZg5,1SDLh9fH4j,BS8hkkkTJ,9ZOujjtR7QOT,vSmv1FsjQV,pGg5c,yK5Y3ZjkUf3B,DC-DR-2,Cluster-E08

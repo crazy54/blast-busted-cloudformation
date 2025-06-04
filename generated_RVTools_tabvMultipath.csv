@@ -1,0 +1,11 @@
+ESX Host,LUN ID,Policy,Preferred Path,Active Path,Paths,vCenter,Datacenter,Cluster
+esxi38.corp.local,Gw6jGHVp,TwdFIqhr,0K35jGLbu2khJ,k9to9A8MjVI,EnEiZc,pDhoTKQvLj,DC-Dev-1,Cluster-F08
+esxi07.corp.local,BlobIiUh,njf6DT8Y,nSG5AKRJmJEsI,VeEKkGdrDVW,6xiEFp,ahj7JqwnLG,DC-Main-1,Cluster-F07
+esxi39.corp.local,d5WSuveG,YId2oDsj,vizgZDXDF7kTn,7TZ1hGqmnzL,csgfGB,2uZwCu8Xx0,DC-Dev-2,Cluster-F01
+esxi25.corp.local,9JtTvPH9,9LjC1o19,HfGLrI6OwgEUF,n6csrwQhudH,uY7pKl,ZjmyQTwPX1,DC-Main-3,Cluster-B02
+esxi02.corp.local,0rHOLXlM,HWuE0uU5,19gP23M0ExlUZ,fl0e8KxyhDh,mWdnF9,ae8NiVD3te,DC-DR-3,Cluster-C10
+esxi22.corp.local,VHmFiYgh,4ZJxV2u6,fulyMsfZXQnfs,vATnFSSKckb,MBBadl,Pe6rIFmZgm,DC-DR-3,Cluster-A10
+esxi31.corp.local,Dgu09uIQ,gSdZtsHb,iT1PkLLh844iE,6YEtvOIJ5dD,ySkVFT,eLk6Av6ZtN,DC-DR-2,Cluster-B06
+esxi18.corp.local,to0M8Wv8,IKNrNPUe,xw2AmQiaUW6CQ,mbkzGsjC9xJ,hvxg0n,LHk48qqFHC,DC-Main-4,Cluster-C06
+esxi15.corp.local,QnAc6dhZ,N2n5Dsu6,00JYVQ3gM9TxZ,vwxspZYItKz,7xYVav,XEgbjuEqPs,DC-Dev-5,Cluster-B04
+esxi11.corp.local,XRvV8lwJ,Ip4M0LY0,JDVYdN0Pk3Mjm,inu4BAJpHKY,4w2Tum,QPmXG4TO1i,DC-Dev-1,Cluster-B03
