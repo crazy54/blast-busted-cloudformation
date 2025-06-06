@@ -1,0 +1,11 @@
+ESX Host,DVPortgroup Name,DVSwitch Name,Port ID,VLAN ID,Connected Object,Object Type,Status,vCenter,Datacenter,Cluster
+esxi17.corp.local,UC6Zwvh,Imb7enKaUcMNo2,9VGFmgBh,A0l5Jhh1,True,MmDwv0U,unknown,FOpe9YR97n,DC-Test-2,Cluster-A04
+esxi01.corp.local,E3fEaYj,aZfVymfbubcY6u,zwAJKkeg,vFmgF7hl,False,Abq4xd8,red,T1irtyMRgr,DC-Main-3,Cluster-A05
+esxi41.corp.local,G5UEWeF,XofoXF11vmeW8D,aGg1CJrg,TosDOa7v,False,cczseiy,unknown,BHXnRd16Pg,DC-Dev-2,Cluster-F01
+esxi45.corp.local,YY2NGcQ,MaiD1Z86wIuxgY,xFsz64zb,bUm7xDG7,True,DugOUw8,ok,OaHSpuadeH,DC-Dev-2,Cluster-F02
+esxi31.corp.local,fbk6gKd,FNWosdMF24w9Yh,kIxvpiE4,LdKNUHQI,True,ZNFTtE2,red,M2Tv69Ff6f,DC-Test-5,Cluster-C05
+esxi08.corp.local,ynC9QSk,rY81Mgsi8M2Frm,7qvACwmA,ALCsijTP,False,lR60qtb,unknown,SmfvALj6I2,DC-Dev-5,Cluster-E06
+esxi48.corp.local,HGVmfgM,zbiNK0CMByAR9S,JsLdCObI,468RCKdv,True,fs2Rxmk,red,dXZJwcoE31,DC-Dev-4,Cluster-F10
+esxi40.corp.local,OXlTLks,o3YUMtp6l4nY11,voCS3XxU,h3H0MFpH,False,27VBKjc,yellow,clSkAMB485,DC-Dev-5,Cluster-A07
+esxi05.corp.local,SfRaACD,BzMajL7TtEuKa3,o396x9vb,0DkTEWB7,True,ypHR58n,green,fGhEEzmZiI,DC-DR-3,Cluster-A06
+esxi49.corp.local,YeOIS2t,2SP2wsNKd5NyXf,62lP33Dy,GXFq6yOD,True,DD4X90h,ok,mOMnTZT9ll,DC-Test-5,Cluster-A09

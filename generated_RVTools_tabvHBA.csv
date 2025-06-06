@@ -1,0 +1,11 @@
+ESX Host,Device,Driver,Model,WWNN,WWPN,Speed,Status,vCenter,Datacenter,Cluster
+esxi50.corp.local,ORXRZWCQfFo,7U8r9C5Cy4W,3ty2AOsvnnb,TGMHDAtrx4G7jM3,C0iZbi4AeP0y,xj7jKLiaG,unknown,LUiSiVE,DC-DR-2,Cluster-E01
+esxi32.corp.local,JNRwvoH2vhv,IDMNieT7l9q,F3e735lZ5b8,OBjWALeFhInTCdD,N63sJsHnJJAv,F4DD1MnuO,green,c9eY5tk,DC-DR-5,Cluster-B01
+esxi20.corp.local,HtGSlgZAxPH,wrBrQscN9Hk,YtTphOmaXoG,aHI3bEE151I1e5q,Psn04RcCvDke,mGh6LoK6M,ok,WwHkytF,DC-DR-2,Cluster-D05
+esxi49.corp.local,bhDVUSejvQH,Mr2FhE0x4J5,GVfK4brV0Z9,Rps9ikbZXhftG3w,pJ7EGJRrG01Z,VQFqnl5PF,yellow,HkPmF8G,DC-DR-4,Cluster-F03
+esxi27.corp.local,9lXfEZd8MFu,lfHdri2s9Nn,lu5VCWuRfqM,7F7iktIBBuDmj0Z,NYhuluHpg7z5,dSyQjkI9x,green,gY4yOBy,DC-Test-2,Cluster-A05
+esxi07.corp.local,heUQkjYjdWf,Bqp364bNXUj,VeHha7zEBlp,etiE3v6PTKGhFVV,9nXyMTcYhKZk,kfxi8rpNN,green,vI3Zrq0,DC-Main-4,Cluster-D01
+esxi23.corp.local,Y9lZtTYBCuv,f15Bb3afQz6,t1pORPO6JAa,Ao5jT41H7uLxlq3,4JKWY7cs0UF8,OxeTV3sAZ,red,TVTNo3B,DC-DR-3,Cluster-E07
+esxi32.corp.local,s9ayqmfKg1j,RWidrlCkkLo,0wDl1N3yjdl,0ILM1MdZnYP1gho,HpU14f3FSxaI,c0U7ykEY8,ok,Mi9KdY9,DC-Main-3,Cluster-E02
+esxi05.corp.local,MioCbp633YO,okScCaoFLXZ,wmb9eVFd4Vu,QrO2lb6tq0Tyi8Y,uu2c83UugflZ,Ej6u77EJj,unknown,mNhJCHP,DC-Test-4,Cluster-D02
+esxi28.corp.local,3tczY6JVOSA,nc4iXdYhrsp,xn7Ugi65d24,tHrScULTvCyewgj,v4zcRNWE3DDB,x5QDap8dv,green,5ms9kGy,DC-Main-4,Cluster-F03
