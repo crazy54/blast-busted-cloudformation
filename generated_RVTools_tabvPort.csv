@@ -1,0 +1,11 @@
+ESX Host,Port Group,vSwitch,VLAN ID,Active Clients,Promiscuous Mode,MAC Address Changes,Forged Transmits,Traffic Shaping,vCenter,Datacenter,Cluster
+esxi20.corp.local,1x58xJt,u6VjM,PfK4PajV,xtgCDKjNsqr,Iywq2RLEI,1E:59:4F:C0:14:48,zmTrrxD3s71mI,aq0dXv,mpgTDpVch,DC-Main-1,Cluster-A02
+esxi14.corp.local,mkI6GyM,02Bar,17NUnJWn,wzeMH51o0iT,235sV0wth,E6:B1:A8:7E:BC:AC,H0DSOFFB1V00j,4aiQf1,HcJmnauIE,DC-Dev-2,Cluster-B09
+esxi29.corp.local,YpO6sLX,P0Knc,XYhXxitR,zCfWRwhSvox,2HUPGnKDP,7D:31:D0:BB:43:FA,7bOh1sqBEpo4L,NMSYOZ,NarWlDkeN,DC-Test-1,Cluster-E02
+esxi28.corp.local,DBZ0DqO,FcteC,3nzK78ac,CQJFxsVNrvy,y5I3LVO2R,9E:E9:5C:FF:62:E9,ZsUvXBF4DCcR3,PqlFih,l6i35OouD,DC-DR-1,Cluster-B01
+esxi35.corp.local,XJYM9DD,qE20p,ejLrszOP,Hzj5Dmr0raU,req6VPYb2,5D:26:4C:07:CE:A0,8K2U1Qdv4VcOK,2vlwD8,0zfHPHABU,DC-DR-1,Cluster-D10
+esxi09.corp.local,eQBoIYX,0VJkV,99Uq3Uo6,Fxc6Jj921WC,wpwTnumZy,F1:CD:1D:23:99:21,udKKJfL7lrZY2,r9GTi0,7ogbbFDpK,DC-Dev-5,Cluster-B05
+esxi30.corp.local,kYpPkiX,v7gSC,X3Z0LYsQ,SVAhleNHkkl,H3hTogE98,B1:8B:AF:4D:03:14,1hVWI0ugyYzNs,MzyeUP,0JQ1dK0Ah,DC-DR-5,Cluster-E02
+esxi09.corp.local,64YSHGb,6cL7U,fAhUKK0t,sCAefoUxN1j,ajLOChQCs,42:BE:02:22:57:D2,6qWqavR6HIJER,ADqIv5,AJdgXlCsA,DC-DR-4,Cluster-B02
+esxi30.corp.local,VjMidhP,BMpek,i5yuXqVE,oO66eSJWWfF,TY1ROnrOH,A5:17:0C:F8:0E:D2,B2jCJOVgYAvJ4,oV3FMg,SeeZ6sW6k,DC-Main-2,Cluster-F08
+esxi28.corp.local,hPIfeHb,BJT6q,kTFYX9ex,J4A9dedoBYz,XP9G9O9mY,B3:B8:46:BC:98:C0,bz2T0ysOp2nhF,Xt7U7N,CrrSxbusK,DC-Dev-1,Cluster-F10
